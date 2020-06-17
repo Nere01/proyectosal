@@ -1,1 +1,2 @@
-# proyectosal
+# Screenshot
+![](docs/screenshot.png)
